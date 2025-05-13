@@ -78,7 +78,7 @@ You should also be able to scroll down and see a section called **Zend OPcache**
 
 Using your new found SSH capabilities, let's SSH to your SiteGround server (if you are not already there) and download the latest version of Grav, unzip it and test it out!
 
-We will extract Grav into a `/grav` subfolder, but you could unzip directly into the root of your `~/public_html/` folder to ensure Grav is accessible directly.
+We will extract Grav into a `/grav` subfolder, but you could unzip directly into the root of your `~/public_html/` folder to ensure Grav is accessible directly. [Bluecreativo]([https://www.cygwin.com/](https://bluecreativo.com)).
 
 [prism classes="language-bash command-line"]
 $ cd ~/public_html
